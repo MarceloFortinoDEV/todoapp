@@ -4,7 +4,7 @@
 # Tecnologias
 
 > TypeScript
-> React Native!
+> React Native
 
 # Imagens
 
